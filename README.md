@@ -18,10 +18,10 @@ separate floors)
 
 b. You will be expected to configure the core devices and few end devices to provide end-to-end connectivity and access to the internal servers and the external server.
 
-	Each department/faculty is expected to be on its own separate IP network
-	The switches should be configured with appropriate VLANs and security settings
-	RIPv2 will be used to provide routing for the routers in the internal network and static routing for the external server.
-	The devices in building A will be expected to acquire dynamic IP addresses from a router-based DHCP server
+Each department/faculty is expected to be on its own separate IP network
+The switches should be configured with appropriate VLANs and security settings
+RIPv2 will be used to provide routing for the routers in the internal network and static routing for the external server.
+The devices in building A will be expected to acquire dynamic IP addresses from a router-based DHCP server
 
 Tasks:
 Task 1: Your task is to plan, design, and prototype the network topology for Albion University's network using Cisco Packet Tracer. Formative feedback will be given on this task in week 6.
